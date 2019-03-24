@@ -1,0 +1,15 @@
+{
+  "name": "canlitoplar",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Mete Oğuzhan Bayrampınar <mo.bayrampinar@faturatim.com.tr>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "semantic": "^2.4.1",
+    "jquery": "^3.3.1"
+  }
+}
